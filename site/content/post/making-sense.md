@@ -5,23 +5,28 @@ description: The Coffee Taster’s Flavor Wheel, the official resource used by c
 image: /img/blog-flavor_wheel.jpg
 ---
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+IPFS powers the Distributed Web
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
 
-## What the updates mean to you
+## What the updates
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+image: /img/todays-web.jpg
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+Today's web is inefficient and expensive
+HTTP downloads files from one server at a time — but peer-to-peer IPFS retrieves pieces from multiple nodes at once, enabling substantial bandwidth savings. With up to 60% savings for video, IPFS makes it possible to efficiently distribute high volumes of data without duplication.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+image: /img/preserve-history.jpg
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+Today's web can't preserve humanity's history
+The average lifespan of a web page is 100 days before it's gone forever. The medium of our era shouldn't be this fragile. IPFS makes it simple to set up resilient networks for mirroring data, and thanks to content addressing, files stored using IPFS are automatically versioned.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+image: /img/centralized.jpg
+
+Today's web is centralized, limiting opportunity
+The Internet has turbocharged innovation by being one of the great equalizers in human history — but increasing consolidation of control threatens that progress. IPFS stays true to the original vision of an open, flat web by delivering technology to make that vision a reality.
+
+image: /img/backbone.jpg
+
+Today's web is addicted to the backbone
+IPFS powers the creation of diversely resilient networks that enable persistent availability — with or without internet backbone connectivity. This means better connectivity for the developing world, during natural disasters, or just when you're on flaky coffee shop wi-fi.
