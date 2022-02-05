@@ -1,7 +1,7 @@
 ---
 title: "This is My Blog page for sharing things and Internet Stuff"
 subtitle: Sharing information and Knowledge is my power
-image: 
+image: /img/20210819_144441_0000.png
 blurb:
     heading: Why blog?
     text: "This is Test Post."
